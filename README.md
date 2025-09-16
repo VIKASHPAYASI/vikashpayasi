@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vikash Payasi — Senior Java Backend Developer | Cloud & AI Enthusiast
 
-🔹 **10+ years** of proven expertise designing, developing, and deploying **scalable**, **secure**, and **high-performance** backend systems  
+🔹 **12+ years** of proven expertise designing, developing, and deploying **scalable**, **secure**, and **high-performance** backend systems  
 🔹 Specializing in **Java** and **Spring Boot** ecosystems, integrating **legacy enterprise systems** with modern microservices architectures  
 🔹 Experienced in **Cloud platforms (AWS)**, **Messaging systems (Kafka, SQS)**, and **AI integrations (OpenAI API, GitHub Copilot)**
 
